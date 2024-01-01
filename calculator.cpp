@@ -36,5 +36,5 @@ int main()
         default: 
         std::cout << 'error; invalid operation' << std::endl;
 }
- return 0;
+ 
 }

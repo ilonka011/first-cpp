@@ -8,4 +8,6 @@ int main() {
     cout << *p << endl;
     cout << *(p + 4);
     cout << 'Something new every day!';
+    
+    return 0;
 }

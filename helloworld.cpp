@@ -7,5 +7,4 @@ int main(){
     double amount = 14.7;
     string random = "I am here again.";
     std::cout << string;
-    return 0;
 } 
